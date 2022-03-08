@@ -19,7 +19,3 @@ For the development of this project, I used the following technologies:
 - [GitHub Pages](https://pages.github.com/) · GitHub repository hosting.
 - [Visual Studio Code](https://code.visualstudio.com/) · Source code editor.
 - [Adobe XD](https://www.adobe.com/br/products/xd.html) · UI/UX design solution.
-
-## License
-
-This project is licensed under the MIT license, see the [LICENSE.md](https://github.com/JefersonLucas/custom-motorcycles/blob/main/LICENSE.md) file for details.
